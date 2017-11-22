@@ -1,0 +1,275 @@
+/*Hypervínculos*/
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #18BC9C;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Lato', sans-serif;
+  margin: 0 auto;
+}
+
+footer {
+  background: #2C3E50;
+  color: white;
+  text-align: center;
+}
+
+footer > p {
+  background: #1A252F;
+  font-size: 14px;
+  margin: 0;
+  padding: 25px;
+}
+
+footer > section {
+  display: inline-block;
+  font-size: 20px;
+  height: 180px;
+  margin: 20px;
+  width: 250px;
+}
+
+footer > section > h2 {
+  font-size: 25px;
+}
+
+footer > section > a > div > i {
+  margin: 7px 7px;
+}
+
+form {
+  height: 610px;
+  width: auto;
+}
+
+header {
+  background: #2C3E50;
+  color: white;
+  height: 110px;
+  position: fixed;
+  width: 100%;
+}
+
+header > div > a {
+  display: inline-block;
+  font-weight: 900;
+  left: 380px;
+  letter-spacing: 1px;
+  margin: 6px;
+  position: relative;
+  top: 11px;
+}
+
+header > div > h1 {
+  border: none;
+  display: inline-block;
+  font-weight: 900;
+  left: 40px;
+  position: relative;
+  top: 11px;
+}
+
+hr {
+  border: none;
+  display: inline-block;
+  height: 5px;
+  margin: 30px auto;
+  padding: none;
+  width: 100px;
+}
+
+i.star {
+  font-size: 30px;
+}
+
+input {
+  border: none;
+  border-bottom: 1px solid #EEEEEE;
+  color: #212529;
+  font-size: 25px;
+  padding: 40px;
+  padding-left: 0;
+  width: 600px;
+}
+
+textarea {
+  border: none;
+  border-bottom: 1px solid #EEEEEE;
+  color: #495057;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Lato', sans-serif;
+  font-size: 25px;
+  height: 192px;
+  line-height: 1.5;
+  padding: 40px;
+  padding-left: 0;
+  resize: none;
+  width: 600px;
+}
+
+/*Hypervínculo del footer*/
+#a_footer {
+  color: #18BC9C;
+  text-decoration: none;
+}
+
+#a_footer:hover {
+  color: #1F8F76;
+  text-decoration: underline;
+}
+
+#a_star:hover {
+  color: white;
+}
+
+/*Editando boton de descarga*/
+#button_1 {
+  background: #18BC9C;
+  border: 2px solid white;
+  border-radius: 5px;
+  color: white;
+  font-size: 19px;
+  padding: 20px 30px;
+}
+
+#button_1:hover {
+  background: white;
+  /*color: #18BC9C; Lo modificaron preguntar si lo dejo en este o negro*/
+  color: black;
+}
+
+/*Boton Send*/
+#button_2 {
+  background: #18BC9C;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-size: 20px;
+  padding: 20px 30px;
+}
+
+#button_2:hover {
+
+  background: #128F76;
+  color: #F7FFFF;
+}
+
+/*Home*/
+#section_1 {
+  background: #18BC9C;
+  color: white;
+  height: 810px;
+  text-align: center;
+  width: 100%;
+}
+
+#section_1 > h1 {
+  border: none;
+  font-size: 80px;
+  margin: 20px auto;
+}
+
+#section_1 > h2 {
+  border: none;
+  font-size: 25px;
+  font-weight: 400;
+}
+
+#section_1 > img {
+  border: none;
+  display: block;
+  margin: 0 auto;
+  padding-top: 200px;
+}
+
+/*Portfolio*/
+#section_2 {
+  height: 810px;
+  text-align: center;
+  width: 100%;
+}
+
+#section_2 > section > div {
+  display: inline-block;
+}
+
+#section_2 > section > div > img {
+  height: 205px;
+  margin: 13px;
+  width: 285px;
+}
+
+/*About*/
+#section_3 {
+  background: #18BC9C;
+  color: white;
+  height: 660px;
+  text-align: center;
+  width: 100%;
+}
+
+#section_3 > section > p {
+  display: inline-block;
+  font-size: 20px;
+  height: 250px;
+  line-height: 1.5;
+  margin: 18px;
+  text-align: left;
+  width: 30%;
+}
+
+/*Contact me*/
+#section_4 {
+  height: 1000px;
+  text-align: center;
+  width: 100%;
+}
+
+#section_4 > section {
+  margin: 12px 182px;
+  text-align: left;
+}
+
+.blue {
+  background: #2C3E50;
+}
+
+.blue-marine {
+  color: #212529;
+}
+
+.icon {
+  border: 2px solid white;
+  border-radius: 50px;
+  height: 35px;
+  display: inline-block;
+  margin: 2px;
+  overflow: hidden;
+  padding: 5px;
+  width: 35px;
+}
+
+.icon:hover {
+  background: white;
+  color: #2C3E50;
+}
+
+.text-uppercase {
+  text-transform: uppercase;
+}
+
+.title-section {
+  margin: 0;
+  font-size: 50px;
+  padding-top: 100px;
+}
+
+.white {
+  background: white;
+}
