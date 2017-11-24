@@ -1,5 +1,11 @@
 # Freelancer
 
+# NOTA
+#### Para la visualización de la web no abrir en pantalla completa (PC ó Laptop), ya que esta maquetado en una notebook.
+
+#### Gracias
+
+
 ## Objetivo
 
 El reto consiste en replicar el sitio de **Freelancer**, este será el resultado
